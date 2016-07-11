@@ -1,0 +1,21 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: #c81e1e;
+}
+#dmain {
+    width: 854px;
+    height: 504px;
+    background-image: url("../image/bg1.png");
+}
+#darrow {
+    height: 294px;
+    width: 294px;
+    background-image: url("../image/arrow.png");
+    position: absolute;
+    top: 104px;
+    left: 180px;
+    cursor: pointer;
+}
